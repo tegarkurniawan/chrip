@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chrip</string>
+    <string name="chirp_app_key">QfF5f9aytmXwZQmWJb3XYKrJl</string>
+    <string name="chirp_app_secret">wdDYxAhgMfc1DK1HvlDzgmTNwb4HOV0LncH4dabZQvMtYEQWve</string>
+</resources>
